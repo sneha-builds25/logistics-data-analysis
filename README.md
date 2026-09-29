@@ -183,7 +183,7 @@ BCA Student | Aspiring Data Analyst
 ### Connect with me
 
 - GitHub: https://github.com/sneha-builds25
-- LinkedIn: https://www.linkedin.com/in/sneha
+- LinkedIn : https://www.linkedin.com/in/sneha-53b244383?
 
 ---
 
